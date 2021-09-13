@@ -6,7 +6,6 @@
 // document.querySelector('.score').textContent = 10;
 
 let secretnumber = Math.trunc(Math.random() * 20 + 1);
-console.log(secretnumber);
 let score = 20;
 let highscore = 0;
 
